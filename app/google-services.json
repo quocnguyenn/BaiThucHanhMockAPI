@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094268686520",
+    "project_id": "nguyendinhquoc-authencation",
+    "storage_bucket": "nguyendinhquoc-authencation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094268686520:android:4692b84e6d92b97b12244d",
+        "android_client_info": {
+          "package_name": "com.example.a17066901_nguyendinhquoc_baimockapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094268686520-036hm6jj1go4kei1q3vpfgfdjkrdmo78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwqYAPEG_4_Qg3mkWbY88tbDH12avlkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094268686520-036hm6jj1go4kei1q3vpfgfdjkrdmo78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
